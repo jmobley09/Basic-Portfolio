@@ -1,6 +1,6 @@
 /*global body parameters */
 .global {
-    background: #dddddd;
+    background-image: url(../images/gravel.png);
 }
 
 /* Style the links inside the navigation bar */
@@ -44,8 +44,10 @@
 }
 
 /* sets the page title on all pages */
-.pageTitle {
-    color: #4aaaa5
+.title {
+    color: #4aaaa5;
+    font-size: ;
+    font-family: 'Georgia', 'Times New Roman', Times, serif;
 }
 
 /* About Me profile picture */
@@ -55,3 +57,10 @@
     height: 300px;
     width: 320px;
 }
+
+/* Header Adjustments */
+header {
+    background-color: #ffffff;
+    height: 25%;
+}
+
