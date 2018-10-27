@@ -47,3 +47,11 @@
 .pageTitle {
     color: #4aaaa5
 }
+
+/* About Me profile picture */
+.indexPhoto {
+    float: left;
+    padding: 50px;
+    height: 300px;
+    width: 300px;
+}
