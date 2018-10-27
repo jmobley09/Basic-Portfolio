@@ -1,6 +1,6 @@
-/* sets global parameters*/
-p {
-    
+/*global body parameters */
+.global {
+    background: burlywood;
 }
 
 /* Style the links inside the navigation bar */
@@ -40,5 +40,5 @@ p {
 .body {
     width: 960px;
     margin: auto;
-    
+    background: #ffffff;
 }
