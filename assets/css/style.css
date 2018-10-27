@@ -1,3 +1,8 @@
+/* sets global parameters*/
+p {
+    
+}
+
 /* Style the links inside the navigation bar */
 .topnav a {
   float: right;
@@ -28,6 +33,12 @@
     border-color: #4aaaa5;
     background-color: #4aaaa5;
     text-align: center;
+    color: #ffffff;
+}
 
-
+/* sets total main content area */
+.body {
+    width: 960px;
+    margin: auto;
+    
 }
