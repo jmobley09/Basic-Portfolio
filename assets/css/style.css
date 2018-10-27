@@ -1,6 +1,6 @@
 /*global body parameters */
 .global {
-    background: burlywood;
+    background: #dddddd;
 }
 
 /* Style the links inside the navigation bar */
@@ -41,4 +41,9 @@
     width: 960px;
     margin: auto;
     background: #ffffff;
+}
+
+/* sets the page title on all pages */
+.pageTitle {
+    color: #4aaaa5
 }
