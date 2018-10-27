@@ -34,6 +34,7 @@
     background-color: #4aaaa5;
     text-align: center;
     color: #ffffff;
+    margin-left: 24.8%;
 }
 
 /* sets total main content area */
@@ -62,5 +63,6 @@
 header {
     background-color: #ffffff;
     height: 25%;
+    margin-bottom: 20px;
 }
 
