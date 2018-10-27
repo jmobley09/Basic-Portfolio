@@ -51,7 +51,7 @@
 /* About Me profile picture */
 .indexPhoto {
     float: left;
-    padding: 50px;
+    padding: 20px;
     height: 300px;
-    width: 300px;
+    width: 320px;
 }
