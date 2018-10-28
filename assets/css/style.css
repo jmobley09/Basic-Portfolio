@@ -8,9 +8,10 @@
   float: right;
   color: #cccccc;
   text-align: center;
-  padding: 14px 16px;
+  padding: 14px 16px 14px 16px;
   text-decoration: none;
   font-size: 17px;
+  margin-right: 150px;
 }
 
 /* Change the color of links on hover */
