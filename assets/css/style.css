@@ -11,7 +11,6 @@
   padding: 14px 16px 14px 16px;
   text-decoration: none;
   font-size: 17px;
-  margin-right: 150px;
 }
 
 /* Change the color of links on hover */
@@ -48,8 +47,9 @@
 /* sets the page title on all pages */
 .title {
     color: #4aaaa5;
-    font-size: ;
+    font-size: Large;
     font-family: 'Georgia', 'Times New Roman', Times, serif;
+    font-weight: bold;
 }
 
 /* About Me profile picture */
