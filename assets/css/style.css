@@ -37,19 +37,24 @@
     margin-left: 24.8%;
 }
 
+/* sets the page title on all pages */
+.title {
+    color: #4aaaa5;
+    font-size: x-Large;
+    font-family: 'Georgia', 'Times New Roman', Times, serif;
+    font-weight: bold;
+    padding: 1%;
+    border-bottom: 3px solid #cccccc;
+    width: 90%;
+    margin-left: 30px;
+    margin-bottom: 10px;
+}
+
 /* sets total main content area */
 .body {
     width: 960px;
     margin: auto;
     background: #ffffff;
-}
-
-/* sets the page title on all pages */
-.title {
-    color: #4aaaa5;
-    font-size: Large;
-    font-family: 'Georgia', 'Times New Roman', Times, serif;
-    font-weight: bold;
 }
 
 /* About Me profile picture */
