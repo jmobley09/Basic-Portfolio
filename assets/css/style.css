@@ -40,13 +40,13 @@
 /* sets the page title on all pages */
 .title {
     color: #4aaaa5;
-    font-size: x-Large;
+    font-size: xx-Large;
     font-family: 'Georgia', 'Times New Roman', Times, serif;
     font-weight: bold;
-    padding: 1%;
+    padding: 3%;
     border-bottom: 3px solid #cccccc;
     width: 90%;
-    margin-left: 30px;
+    margin-left: 20px;
     margin-bottom: 10px;
 }
 
@@ -55,6 +55,7 @@
     width: 960px;
     margin: auto;
     background: #ffffff;
+    margin-top: 4%;
 }
 
 /* About Me profile picture */
@@ -72,3 +73,28 @@ header {
     margin-bottom: 20px;
 }
 
+/* Footer Adjustments */
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: #666666;
+    color: white;
+    text-align: center;
+   /* border-top-color: #4aaaa5;
+    border-style: solid;
+    border-width: 10px;
+    */
+ }
+
+ /* Footer Accent */
+.topfooter {
+    position: fixed;
+    left: 0;
+    bottom: 50px;
+    width: 100%;
+    background-color: #4aaaa5;
+    color: white;
+    text-align: center;
+ }
