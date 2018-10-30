@@ -99,3 +99,22 @@ header {
     max-height: 300px;
     padding: 2%;
  }
+
+ /* Photo contain for positioning */
+.posPhoto {
+    position: relative;
+    padding: 2%;
+    width: 40%;
+    float: left;
+}
+
+/* Puts and positions text on photos */
+.photoText {
+    position: absolute;
+    bottom: 12%;
+    left: 6.2%;
+    color: #ffffff;
+    background-color: #4aaaa5;
+    width: 97.3%;
+    text-align: center;
+}
