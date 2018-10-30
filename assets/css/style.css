@@ -30,7 +30,7 @@ nav {
     background-color: #4aaaa5;
     text-align: center;
     color: #ffffff;
-    margin-left: 24.8%;
+    margin-left: 23.8%;
 }
 
 /* sets the page title on all pages */
@@ -58,7 +58,7 @@ nav {
 /* sets total main content area for the portfolio page*/
 .portbody {
     width: 960px;
-    height: 1000px;
+    height: 1150px;
     margin: auto;
     background: #ffffff;
     padding: 1%;
@@ -112,6 +112,7 @@ header {
 .posPhoto {
     position: relative;
     padding: 2%;
+    margin-right: 2%;
     width: 40%;
     float: left;
 }
