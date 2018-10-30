@@ -3,18 +3,16 @@
     background-image: url(../images/gravel.png);
 }
 
-/* Puts location of the Nav bar on the page */
-.navloc {
-    margin-right: 15%;
-}
 /* Style the links inside the navigation bar */
-.topnav a {
-  float: right;
-  color: #cccccc;
-  text-align: center;
-  padding: 14px 16px 14px 16px;
-  text-decoration: none;
-  font-size: 17px;
+nav {
+    font-family: Arial, 'Helvetica Neue', Helvetica, sans-serif;
+    float: right;
+    text-align: right;
+    word-spacing: 14px;
+    color: #cccccc;
+    padding: 50px 500px 35px 0px;
+    margin: -10px -15px 0px 0px;
+    text-decoration: none;
 }
 
 /* Change the color of links on hover */
