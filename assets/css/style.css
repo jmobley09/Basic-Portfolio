@@ -3,6 +3,10 @@
     background-image: url(../images/gravel.png);
 }
 
+/* Puts location of the Nav bar on the page */
+#navloc {
+    margin-right: 5%;
+}
 /* Style the links inside the navigation bar */
 .topnav a {
   float: right;
@@ -47,6 +51,16 @@
 /* sets total main content area */
 .body {
     width: 960px;
+    height: auto;
+    margin: auto;
+    background: #ffffff;
+    padding: 1%;
+}
+
+/* sets total main content area for the portfolio page*/
+.portbody {
+    width: 960px;
+    height: 1000px;
     margin: auto;
     background: #ffffff;
     padding: 1%;
