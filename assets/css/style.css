@@ -4,8 +4,9 @@
 }
 
 /* Puts location of the Nav bar on the page */
-#navloc {
-    margin-right: 5%;
+.navloc {
+    margin-right: 15%;
+    margin: 200px;
 }
 /* Style the links inside the navigation bar */
 .topnav a {
@@ -90,10 +91,6 @@ header {
     background-color: #666666;
     color: white;
     text-align: center;
-   /* border-top-color: #4aaaa5;
-    border-style: solid;
-    border-width: 10px;
-    */
  }
 
  /* Footer Accent */
