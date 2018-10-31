@@ -13,9 +13,9 @@
     <header>
         <!--Nav Bar-->
         <nav>
-            <a class="active" href="index.html">About</a> |
-            <a href="portfolio.html">Portfolio</a> |
-            <a href="contact.html">Contact</a>
+                <a href="index.html">About</a> |
+                <a href="portfolio.html">Portfolio</a> |
+                <a href="contact.html">Contact</a>
         </nav>
         <div class="name">
             <h1>Joshua Mobley</h1>
@@ -31,11 +31,14 @@
         <!--Contact form-->
         <form action="/action_page.php">
             Name:<br>
-            <input type="text" name="name" maxlength="20"><br>
+            <input type="text" name="name" maxlength="200" style="width: 400px;" placeholder="John Smith ...">
+            <br><br>
             Email:<br>
-            <input type="text" name="email" maxlength="20"><br>
+            <input type="text" name="email" maxlength="200" style="width: 400px;" placeholder="johnsmith@email.com ...">
+            <br><br>
             Message:<br>
-            <input type="text" name="message" maxlength="250"><br><br>
+            <textarea name="Message" id="Message" cols="100" rows="10" placeholder="Write a brief message here ..."></textarea>
+            <br><br>
             <input type="submit" value="Submit">
         </form>
     </div>
