@@ -10,7 +10,29 @@ nav {
     text-decoration: none;
 }
 
-/* Format the Name */
+
+ul {
+    text-align: right; 
+    width: 20%; 
+    background-color: #fff;
+    height: 20px;
+    position: fixed;
+    right: 25%;
+    top: 5%;
+
+}
+
+ul a {
+    color: #666666;; 
+    padding: 0 10px; 
+    text-decoration: none;
+}
+
+ul a:hover {
+    color: #333;
+}
+
+/* Formats the Name */
 .name {
     border-style: solid;
     border-width: 15px;
@@ -39,9 +61,12 @@ nav {
 .body {
     width: 960px;
     height: auto;
-    margin: auto;
     background: #ffffff;
     padding: 1%;
+    position: fixed;
+    top: 20%;
+    left: 24%;
+    overflow-y: scroll;
 }
 
 /* sets total main content area for the portfolio page*/
@@ -64,8 +89,11 @@ nav {
 /* Header Adjustments */
 header {
     background-color: #ffffff;
-    height: 25%;
     margin-bottom: 20px;
+    width: 100%;
+    position: fixed;
+    top: 0;
+    left: 0;
 }
 
 /* Footer Adjustments */
