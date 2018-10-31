@@ -60,7 +60,6 @@ ul a:hover {
 /* sets total main content area */
 .body {
     width: 960px;
-    height: auto;
     background: #ffffff;
     padding: 1%;
     position: fixed;
@@ -76,6 +75,7 @@ ul a:hover {
     margin: auto;
     background: #ffffff;
     padding: 1%;
+    margin-top: 10%;
 }
 
 /* About Me profile picture */
@@ -94,6 +94,7 @@ header {
     position: fixed;
     top: 0;
     left: 0;
+    z-index: +3;
 }
 
 /* Footer Adjustments */
